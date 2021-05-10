@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for tbl_Clientes"
+    id="id-f1cd154cb0bc42809dac6acac647e15f"
+    viewpoint="implementation_deployment">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-659ac7762df64e648f4ab5c076dd1953">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-0441294e79bf434a9c56429047cefdf7.xml#id-0441294e79bf434a9c56429047cefdf7"/>
+  </children>
+</archimate:ArchimateDiagramModel>
